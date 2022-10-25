@@ -67,6 +67,12 @@
           <AssociatedConnUserName />
           <FullPath>09_Backup.sql</FullPath>
         </FileNode>
+        <FileNode Name="09_Securtiy.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09_Securtiy.sql</FullPath>
+        </FileNode>
         <FileNode Name="instnwnd.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
